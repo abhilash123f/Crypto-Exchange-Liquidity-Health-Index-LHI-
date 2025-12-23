@@ -1,0 +1,75 @@
+
+LIQUIDITY HEALTH REPORT - ETH-USDT
+==================================================
+
+EXECUTIVE SUMMARY
+-----------------
+Average LHI Score: 52.2/100
+Worst LHI Score: 1.1/100
+Time in Stress: 49.4% of period
+
+Average Spread: 5.1 bps
+Worst Spread: 5.1 bps
+
+INTERPRETATION
+--------------
+! Overall liquidity shows MILD STRESS
+! High stress frequency (49.4% of time)
+
+STRESS PERIODS IDENTIFIED
+-------------------------
+1. 11-23 19:52 - 22:42
+   Duration: 171 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (6.0x normal)
+
+2. 11-24 04:15 - 05:16
+   Duration: 62 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (3.4x normal)
+
+3. 11-24 09:12 - 10:04
+   Duration: 53 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (4.9x normal)
+
+4. 11-24 17:28 - 18:28
+   Duration: 61 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (3.2x normal)
+
+5. 11-24 19:28 - 21:16
+   Duration: 109 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (5.8x normal)
+
+6. 11-24 22:28 - 00:09
+   Duration: 102 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (4.8x normal)
+
+7. 11-25 00:50 - 02:00
+   Duration: 71 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (5.0x normal)
+
+8. 11-25 02:46 - 04:14
+   Duration: 89 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (9.0x normal)
+
+9. 11-26 04:36 - 09:31
+   Duration: 296 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (6.0x normal)
+
+10. 11-26 12:37 - 13:34
+   Duration: 58 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (3.9x normal)
+
+
+TRADING RECOMMENDATIONS
+-----------------------
+- Normal trading with increased caution during flagged periods
+- Consider splitting large orders

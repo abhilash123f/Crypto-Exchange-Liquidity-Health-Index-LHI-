@@ -1,0 +1,75 @@
+
+LIQUIDITY HEALTH REPORT - BTC-USDT
+==================================================
+
+EXECUTIVE SUMMARY
+-----------------
+Average LHI Score: 51.3/100
+Worst LHI Score: 1.1/100
+Time in Stress: 51.6% of period
+
+Average Spread: 5.1 bps
+Worst Spread: 5.1 bps
+
+INTERPRETATION
+--------------
+! Overall liquidity shows MILD STRESS
+! High stress frequency (51.6% of time)
+
+STRESS PERIODS IDENTIFIED
+-------------------------
+1. 11-23 14:24 - 18:16
+   Duration: 233 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (5.6x normal)
+
+2. 11-23 19:18 - 22:08
+   Duration: 171 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (5.1x normal)
+
+3. 11-23 22:51 - 00:53
+   Duration: 123 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (4.6x normal)
+
+4. 11-24 13:37 - 15:11
+   Duration: 95 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (6.2x normal)
+
+5. 11-24 15:36 - 16:21
+   Duration: 46 minutes
+   Min LHI: 1.1
+   Issues: 
+
+6. 11-24 21:16 - 21:59
+   Duration: 44 minutes
+   Min LHI: 1.1
+   Issues: 
+
+7. 11-25 06:43 - 07:06
+   Duration: 24 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (4.4x normal)
+
+8. 11-25 07:12 - 08:17
+   Duration: 66 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (4.0x normal)
+
+9. 11-25 12:47 - 14:01
+   Duration: 75 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (5.0x normal)
+
+10. 11-25 14:16 - 15:48
+   Duration: 93 minutes
+   Min LHI: 1.1
+   Issues: Volume spike (3.8x normal)
+
+
+TRADING RECOMMENDATIONS
+-----------------------
+- Normal trading with increased caution during flagged periods
+- Consider splitting large orders
